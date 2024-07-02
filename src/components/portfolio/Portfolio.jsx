@@ -4,6 +4,7 @@ import EngineProject from "./2dEngine";
 import Ecommerce_Front from "./Commerce_Front";
 import CarbonEmission from "./CarbonEmission";
 import Commerce_Admin from "./Commerce_Admin";
+import GPTPlatform from "./ModernUxGPT";
 
 const Portfolio = () => {
     const containerRef = useRef(null);
@@ -83,6 +84,7 @@ const Portfolio = () => {
             <span className="portfolio_subtitle section_subtitle">A sneak peek</span>
 
             <div className="project_container container grid" ref={containerRef}>
+                <GPTPlatform/>
                 <EngineProject />
                 <CarbonEmission />
                 <Ecommerce_Front />

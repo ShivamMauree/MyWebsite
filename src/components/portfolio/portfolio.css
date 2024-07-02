@@ -50,6 +50,25 @@
     bottom: 0.5rem;
     right: 1.5rem;
 }
+
+.project_button_left {
+    /*color: var(--title-color);*/
+    font-size: var(--small-font-size);
+    display:inline-flex;
+    align-items: center;
+    cursor:pointer;
+    column-gap:0.25rem;
+    position:absolute;
+    bottom: 0.5rem;
+    left: 1.5rem;
+}
+
+.project_button_left:hover .project_button_left_icon{
+    color: var(--title-color);
+    transform: translateX(00.25rem);
+}
+
+
 .project_button-icon{
     font-size:1rem;
     transition:0.3s;
