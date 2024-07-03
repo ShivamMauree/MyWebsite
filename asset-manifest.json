@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MyWebsite/static/css/main.fbbc15a1.css",
+    "main.js": "/MyWebsite/static/js/main.019df309.js",
+    "static/js/453.70888deb.chunk.js": "/MyWebsite/static/js/453.70888deb.chunk.js",
+    "static/media/GPTPlatform.png": "/MyWebsite/static/media/GPTPlatform.546870bfd406f4ca4874.png",
+    "static/media/carbon.png": "/MyWebsite/static/media/carbon.cff4b81ac5af97319797.png",
+    "static/media/Resume.pdf": "/MyWebsite/static/media/Resume.092efe584311b855c270.pdf",
+    "static/media/ecommerce.png": "/MyWebsite/static/media/ecommerce.1d30404797737b37be1b.png",
+    "static/media/ecommerceAdmin.png": "/MyWebsite/static/media/ecommerceAdmin.a743c9fa6cecb7b400a5.png",
+    "static/media/2dEngine.png": "/MyWebsite/static/media/2dEngine.e3fd969484ef100e4e5b.png",
+    "static/media/profile1.jpg": "/MyWebsite/static/media/profile1.6bccded69674b3b90e50.jpg",
+    "static/media/about.png": "/MyWebsite/static/media/about.364aeff3ea9430b0b565.png",
+    "index.html": "/MyWebsite/index.html",
+    "main.fbbc15a1.css.map": "/MyWebsite/static/css/main.fbbc15a1.css.map",
+    "main.019df309.js.map": "/MyWebsite/static/js/main.019df309.js.map",
+    "453.70888deb.chunk.js.map": "/MyWebsite/static/js/453.70888deb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbbc15a1.css",
+    "static/js/main.019df309.js"
+  ]
+}
