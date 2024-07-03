@@ -1,9 +1,9 @@
 import React, { useRef, useEffect } from 'react';
 import "./portfolio.css";
 import EngineProject from "./2dEngine";
-import Ecommerce_Front from "./Commerce_Front";
+import EcommerceFront from "./CommerceFront";
 import CarbonEmission from "./CarbonEmission";
-import Commerce_Admin from "./Commerce_Admin";
+import CommerceAdmin from "./CommerceAdmin";
 import GPTPlatform from "./ModernUxGPT";
 
 const Portfolio = () => {
@@ -87,8 +87,8 @@ const Portfolio = () => {
                 <GPTPlatform/>
                 <EngineProject />
                 <CarbonEmission />
-                <Ecommerce_Front />
-                <Commerce_Admin/>
+                <EcommerceFront />
+                <CommerceAdmin/>
             </div>
         </section>
     );
@@ -104,7 +104,7 @@ export default Portfolio;
 // import React from 'react';
 // import "./portfolio.css"
 // import EngineProject from "./2dEngine";
-// import Ecommerce_Front from "./Commerce_Front";
+// import EcommerceFront from "./Commerce_Front";
 // import CarbonEmission from "./CarbonEmission";
 // import {Swiper, SwiperSlide} from"swiper/react";
 // import "swiper/css";
@@ -126,7 +126,7 @@ export default Portfolio;
 //                     }}
 //                     modules={[Pagination]}>
 //                 <SwiperSlide><EngineProject/></SwiperSlide>
-//                 <SwiperSlide><Ecommerce_Front/></SwiperSlide>
+//                 <SwiperSlide><EcommerceFront/></SwiperSlide>
 //                 <SwiperSlide><CarbonEmission/></SwiperSlide>
 //             </Swiper>
 //
@@ -143,7 +143,7 @@ export default Portfolio;
 // import React, { useRef, useEffect } from 'react';
 // import "./portfolio.css";
 // import EngineProject from "./2dEngine";
-// import Ecommerce_Front from "./Commerce_Front";
+// import EcommerceFront from "./Commerce_Front";
 // import CarbonEmission from "./CarbonEmission";
 //
 // const Portfolio = () => {
@@ -198,7 +198,7 @@ export default Portfolio;
 //
 //             <div className="project_container container grid" ref={containerRef}>
 //                 <EngineProject />
-//                 <Ecommerce_Front />
+//                 <EcommerceFront />
 //                 <CarbonEmission />
 //                 {/* Add more project components here */}
 //             </div>
