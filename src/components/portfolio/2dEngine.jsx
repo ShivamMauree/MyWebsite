@@ -31,9 +31,7 @@ const EngineProject =()=>{
                     <h3 className="project_title">2d Game Engine</h3>
                     <p className="project_description">Utilizing libraries such as LWJGL, GLFW, and OpenGL, the project
                         features efficient rendering, a finite state automata-based animation system, and a robust
-                        physics
-                        engine. The UI/Level Editor, built with IMGUI, offers intuitive tools for game development,
-                        including
+                        physics engine. The UI/Level Editor, built with IMGUI, offers intuitive tools for game development,including
                         drag-and-drop functionality, zooming, and component management.</p>
 
 
